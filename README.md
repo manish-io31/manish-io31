@@ -32,9 +32,10 @@
 </p>
 
 <p align="center">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chatgpt.png" height="55"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini.png" height="55"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/perplexity.png" height="55"/>
+  <img src="[[https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chatgpt.png](https://icons8.com/icon/95qv31JyMb9Y/chatgpt)](https://icons8.com/icon/Yl9ip6CjqAEI/github-copilot)" height="55"/>
+  <img src="[https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chatgpt.png](https://icons8.com/icon/95qv31JyMb9Y/chatgpt)" height="55"/>
+  <img src="[https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini.png](https://uxwing.com/google-gemini-icon/)" height="55"/>
+  <img src="[https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/perplexity.png](https://icons8.com/icon/kzJWN5jCDzpq/perplexity-ai)" height="55"/>
 </p>
 
 <p align="center">
@@ -48,14 +49,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish-io31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-io31&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 📈 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-io31&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
