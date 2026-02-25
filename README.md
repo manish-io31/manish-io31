@@ -28,17 +28,6 @@
 ## 🤖 AI Developer Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
-</p>
-
-<p align="center">
-  <img src="[[https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chatgpt.png](https://icons8.com/icon/95qv31JyMb9Y/chatgpt)](https://icons8.com/icon/Yl9ip6CjqAEI/github-copilot)" height="55"/>
-  <img src="[https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chatgpt.png](https://icons8.com/icon/95qv31JyMb9Y/chatgpt)" height="55"/>
-  <img src="[https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini.png](https://uxwing.com/google-gemini-icon/)" height="55"/>
-  <img src="[https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/perplexity.png](https://icons8.com/icon/kzJWN5jCDzpq/perplexity-ai)" height="55"/>
-</p>
-
-<p align="center">
   Cursor • GitHub Copilot • ChatGPT • Gemini • Perplexity • Antigravity
 </p>
 
