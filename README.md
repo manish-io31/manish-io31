@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar S</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Developer;React+JS+Enthusiast;AI-Powered+Developer;Building+Modern+Scalable+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Developer;React+JS+Enthusiast;Building+Modern+Scalable+Web+Apps+🚀" />
 </h3>
 
 ---
@@ -12,7 +12,6 @@
 
 - 👨‍💻 Working as a **Software Developer (Frontend Developer)**  
 - ⚛️ Passionate about **React JS & Modern UI Development**  
-- 🤖 Leveraging **AI tools to boost development productivity**  
 - 💬 Ask me about: **Python, Java, HTML, CSS, JavaScript, TypeScript, React JS**  
 - 📫 Reach me at: **manishbabloo31@gmail.com**
 
@@ -33,7 +32,6 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/GitHub_Copilot_logo.svg" height="55"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chatgpt.png" height="55"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini.png" height="55"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/perplexity.png" height="55"/>
